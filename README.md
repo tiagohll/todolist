@@ -54,6 +54,8 @@ Para rodar a aplicação localmente, siga os passos abaixo:
 
 A API estará disponível em http://localhost:8080.
 
+---
+
 ## 📡 Endpoints Principais
 
 | Método | Endpoint | Descrição |
@@ -62,6 +64,8 @@ A API estará disponível em http://localhost:8080.
 | `POST` | `/tasks/` | Cria uma nova tarefa |
 | `GET`  | `/tasks/` | Lista tarefas do usuário autenticado |
 | `PUT`  | `/tasks/{id}` | Atualiza uma tarefa existente |
+
+---
 
 ## 🎓 Aprendizados
 Neste projeto, pude aprofundar conhecimentos em:
@@ -73,3 +77,7 @@ Neste projeto, pude aprofundar conhecimentos em:
 * Segurança e criptografia básica.
 
 * Relacionamento entre entidades (Usuário x Tarefa).
+
+---
+
+Desenvolvido com 💜 por Tiago HLL
